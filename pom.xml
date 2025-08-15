@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>org.interkambio</groupId>
 	<artifactId>SistemaInventarioBackend</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>SistemaInventarioBackend</name>
 	<description>Backend del sistema de inventario para GusanitoLector</description>
 	<url/>
@@ -27,7 +27,7 @@
 		<url/>
 	</scm>
 	<properties>
-		<java.version>24</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
